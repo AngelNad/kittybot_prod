@@ -7,7 +7,7 @@
 
 ### Технологии
 - Python 3.9
-- python-telegram-bot==13.7
+- python-telegram-bot 13.7
 
 ### Как запустить проект:
 
